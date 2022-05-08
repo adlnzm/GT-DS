@@ -1,2 +1,2 @@
 # GT-DS
-Data Science &amp; Analytics task wit GyamaTech
+Data Science &amp; Analytics task with GyamaTech
